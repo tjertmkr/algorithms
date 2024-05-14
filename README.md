@@ -1,2 +1,2 @@
 # algorithms
-It's baekjoon only repositories
+Algorithm problems that you've studied so far
